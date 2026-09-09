@@ -1,16 +1,21 @@
-## Hi there 👋
+# NandhuReal Money
 
-<!--
-**NandhuRealMoney/NandhuRealMoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Studio project built with Kotlin + Jetpack Compose.
 
-Here are some ideas to get you started:
+## Important
+This project is intentionally a **demo/simulation**. It does not connect to banks, UPI providers, payment cards, crypto exchanges, or real-money withdrawal systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Build
+1. Open this folder in Android Studio.
+2. Let Gradle sync.
+3. Select the `app` configuration.
+4. Build > Build APK(s).
+
+The resulting debug APK will normally be under:
+`app/build/outputs/apk/debug/app-debug.apk`
+
+## App name
+NandhuReal Money
+
+## Package
+com.nandhurealmoney.app
