@@ -1,21 +1,21 @@
-# NandhuReal Money
+# NandhuReal Money — screenshot-inspired Android project
 
-Android Studio project built with Kotlin + Jetpack Compose.
+This version is redesigned to more closely match the supplied PaisaBase screenshots:
+- white mobile dashboard
+- Nandhu / REAL branding
+- blue-to-cyan promotional banner
+- balance + INR presentation
+- UPI count card
+- four colorful shortcut tiles
+- Standard Member / 3.5% commission card
+- five-item bottom navigation
+- Introduction page with the same section structure and typography hierarchy
 
-## Important
-This project is intentionally a **demo/simulation**. It does not connect to banks, UPI providers, payment cards, crypto exchanges, or real-money withdrawal systems.
+The project is a **demo/simulation only**. It does not connect to banks, UPI, cards, crypto exchanges, or real-money withdrawals.
 
 ## Build
-1. Open this folder in Android Studio.
-2. Let Gradle sync.
-3. Select the `app` configuration.
-4. Build > Build APK(s).
+Open the `NandhuRealMoney` folder in Android Studio and choose:
+Build > Build APK(s)
 
-The resulting debug APK will normally be under:
+Debug APK:
 `app/build/outputs/apk/debug/app-debug.apk`
-
-## App name
-NandhuReal Money
-
-## Package
-com.nandhurealmoney.app
